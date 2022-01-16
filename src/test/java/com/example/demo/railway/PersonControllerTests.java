@@ -19,7 +19,7 @@ import reactor.core.publisher.Mono;
     webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT,
     classes = {ReactorDemoApplication.class})
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-class PesonControllerTests {
+class PersonControllerTests {
 
   @Autowired private WebTestClient webTestClient;
 
