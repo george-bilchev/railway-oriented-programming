@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.railway;
 
 import com.example.demo.railway.Person;
 import com.example.demo.railway.Result;
